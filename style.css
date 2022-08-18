@@ -209,3 +209,140 @@ body {
     padding-bottom: 60px;
     font-size: 17px;
 }
+
+/* --------------- */
+
+
+.care-container {
+    background-color: var(--white);
+
+    margin-top: 60rem;
+    text-align: center;
+}
+
+.care-card {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    text-align: left;
+    gap: 10rem;
+    margin: 5rem 10rem;
+}
+
+.care-title {
+    width: 500px;
+    margin: auto;
+}
+
+.description {
+    margin: 2rem auto;
+    color: #6a7681;
+    font-size: 1.2rem;
+    line-height: 1.7;
+}
+
+.hero-btn {
+    padding: 1rem 3rem;
+    font-size: 1.1rem;
+    background: rgb(76, 148, 117);
+    border: none;
+}
+
+.img img {
+    width: 600px;
+}
+
+.card2 {
+    flex-direction: row-reverse;
+}
+
+.team-container {
+    background-color: var(--white);
+    margin-top: -5rem;
+
+    /* display: flex;
+  flex-direction: column; */
+    text-align: center;
+}
+
+.team-top {
+    margin: 4rem 10rem;
+    display: flex;
+    gap: 20rem;
+    text-align: left;
+}
+
+.title {
+    margin-top: 13rem;
+}
+
+.description {
+    margin-top: 13rem;
+
+}
+
+.team-card-container {
+    text-align: left;
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    gap: 4rem;
+}
+
+.team-card {
+    width: 400px;
+}
+
+.team-card img {
+    width: 400px;
+}
+
+.team-name {
+    font-size: 1.5rem;
+    font-weight: 600;
+}
+
+.seemore-btn {
+    margin-top: 3rem;
+    margin-bottom: 7rem;
+
+    padding: 1rem 3rem;
+    font-size: 1.1rem;
+    background: rgb(76, 148, 117);
+    border: none;
+
+}
+
+/* Footer */
+
+footer {
+    background-color: #0c1622;
+    color: #fff;
+    padding: 0 12rem;
+}
+
+.footer-heading {
+    font-size: 1.3rem;
+    font-weight: 600;
+}
+
+.footer-logo {
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 1px solid rgba(112, 112, 112, 0.393);
+    padding-bottom: 4rem;
+    padding-top: 4rem;
+    align-items: center;
+}
+
+.footer-links-container {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 3rem;
+    padding-bottom: 3rem;
+}
+
+.footer-item {
+    margin: 1.2rem 0;
+    color: rgb(177, 177, 177);
+}
