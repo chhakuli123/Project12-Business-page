@@ -3,7 +3,7 @@
 
 ## Project Name: Business Design Landing Page
 
-
+## 🔗Live Link -: [Business-page](https://project12-business-page.netlify.app/)
 ---
 
 ## 🛠 Technologies used
